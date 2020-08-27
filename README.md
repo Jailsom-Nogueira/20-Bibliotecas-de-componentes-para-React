@@ -5,11 +5,10 @@
 - Aqui você vai encontrar tudo o que precisa para deixar sua aplicação com aquela cara profissional sem gastar muito tempo criando tudo do zero.⏳
 - Agora é só clicar no nome de cada uma e escolher a que melhor se encaixa nas suas necessidades.🎉
 
-Sentiu falta de alguma biblioteca? Notou algum link quebrado? Vem falar comigo no [AQUI](https://www.linkedin.com/in/jailsom-nogueira)!😉 
-
+Sentiu falta de alguma biblioteca? Notou algum link quebrado? Vem falar comigo no **[AQUI](https://www.linkedin.com/in/jailsom-nogueira)!**😉 
 
 ## 1- [Gestalt](https://gestalt.netlify.app/Installation)
-O Pinterest desenvolveu o Gestalt seguindo suas diretrizes de design interno para que desenvolvedores e designers falem a mesma linguagem. 
+Desenvolvido pela Pinterest o Gestalt segue as diretrizes de design interno da rede social para que devs e designers falem a mesma linguagem *se é que é possível hehe*. 
 ### Instalação:
 ```
 npm i gestalt
@@ -68,7 +67,7 @@ export default function DeleteButton() {
 ```
 
 ## 4- [Material-UI](https://material-ui.com/)
-O Material-UI foi criado com base no Material Design do Google. Se você deseja criar seu site seguindo este princípio, e aproveitar a UI uma UI já consagrada, aqui está a resposta.
+O Material-UI foi criado com base no Material Design do Google. Se você deseja criar seu site seguindo este princípio e aproveitar uma UI já consagrada, aqui está a resposta.
 ### Instalação:
 ```
 npm i @material-ui/core
@@ -102,7 +101,7 @@ export default function CustomLabel() {
 ```
 
 ## 6- [React Suite](https://rsuitejs.com/en/guide/introduction)
-O React Suite fornece uma interface de usuário amigável que é bem projetada para produtos de sistema corporativo. Também é cheio de componentes, como dicas de ferramentas, carregadores, ícones, botões, etc.
+O React Suite fornece uma interface de usuário amigável e foi projetada para produtos de sistema corporativo. Também é cheia de componentes, como dicas de ferramentas, loaders, ícones, botões, etc.
 ### Instalação:
 ```
 npm i rsuite
@@ -159,7 +158,7 @@ export default function VipBadge() {
 ```
 
 ## 9- [Carbon Components React](https://react.carbondesignsystem.com/?path=/story/accordion--accordion)
-Carbon Components React representa o sistema de design de Carbon da IBM. Esses componentes visam criar consistência no design e garantir que os designers e desenvolvedores estejam se entendendo.
+Carbon Components React representa o sistema de design Carbon da IBM. Esses componentes visam criar consistência no design e garantir que os designers e desenvolvedores estejam se entendendo.
 ### Instalação:
 ```
 npm i carbon-components-react carbon-components carbon-icons
@@ -261,7 +260,7 @@ export default function CustomDialog() {
 ```
 
 ## 15- [React Bootstrap](https://react-bootstrap.github.io/)
-React Bootstrap como o nome já indica, é uma boa maneira de usar o bootstrap, não da maneira original e sim a do react.
+React Bootstrap como o nome já indica, é uma boa maneira de usar o bootstrap, não da maneira original mas sim a do React.
 ### Instalação:
 ```
 npm i react-bootstrap
@@ -291,7 +290,6 @@ export default function CustomText() {
   );
 };
 ```
-
 
 ## 17- [Reactstrap](https://reactstrap.github.io/)
 Reactstrap é todo baseado em Bootstrap 4. Se você estiver familiarizado com bootstrap, não preciso dizer mais nada.
@@ -345,13 +343,12 @@ export default function CancelButton() {
 ```
 
 ## 20- [KendoReact](https://www.telerik.com/kendo-react-ui/)
-Até agora, vimos só as bibliotecas gratuitas, mas agora é a vez de uma premium, KendoReact. Quando se trata de visualização de dados, esta é a pedida. O preço começa em $ 899 e vale muito a pena. Inclusive, algumas grandes empresas a usam, como Microsoft, IBM, NASA, SONY, etc. Mas tem um free trial para nós pobres mortais também.
+Agora é a vez de uma premium, KendoReact. Quando se trata de visualização de dados, esta é a pedida. O preço começa em U$899 e vale muito a pena. Inclusive, algumas grandes empresas a usam, como Microsoft, IBM, NASA, SONY, etc. Mas tem um free trial para nós pobres mortais também hehe.
 ### Instalação:
 ```
 npm install --save @progress/kendo-react-grid @progress/kendo-data-query @progress/kendo-react-inputs @progress/kendo-react-intl @progress/kendo-react-dropdowns @progress/kendo-react-dateinputs @progress/kendo-drawing @progress/kendo-react-data-tools @progress/kendo-react-animation
 ou
 yarn add @progress/kendo-react-grid @progress/kendo-data-query @progress/kendo-react-inputs @progress/kendo-react-intl @progress/kendo-react-dropdowns @progress/kendo-react-dateinputs @progress/kendo-drawing @progress/kendo-react-data-tools @progress/kendo-react-animation
-
 ```
 ### Exemplo de uso:
 ```
@@ -398,8 +395,7 @@ export default function UsersList() {
 ```
 
 ## 22- [Ant Design](https://ant.design/)
-Ant Design é uma biblioteca UI de classe corporativa projetado para aplicativos da web.
-Ela fornece mais de 50 componentes personalizáveis.
+Ant Design é uma biblioteca UI de classe corporativa projetado para aplicativos da web e fornece mais de 50 componentes personalizáveis.
 ### Instalação:
 ```
 npm install antd
@@ -428,7 +424,7 @@ import { Button } from "@chakra-ui/core";
 ```
 
 ## 24- [React Admin](https://marmelab.com/react-admin/)
-Esta biblioteca é perfeita para construir aplicativos de administração business-to-business (B2B) sobre APIs REST / GraphQL e pode ser também ser personalizada. É construída sobre uma série de ferramentas além do React: Material UI, React Router, Redux e React Final Form. Lembrando que conta também com a versão Enterprise Edition que conta principalmente com suporte técnico.
+Esta biblioteca é perfeita para construir aplicativos de administração business-to-business (B2B) sobre APIs REST / GraphQL e pode também ser personalizada. É construída sobre uma série de ferramentas além do React: Material UI, React Router, Redux e React Final Form. Lembrando que possui também uma versão Enterprise Edition que conta principalmente com suporte técnico.
 ### Instalação:
 ```
 npm install react-admin
