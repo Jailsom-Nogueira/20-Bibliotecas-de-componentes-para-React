@@ -5,7 +5,7 @@
 - Aqui você vai encontrar tudo o que precisa para deixar sua aplicação com aquela cara profissional sem gastar muito tempo criando tudo do zero.⏳
 - Agora é só clicar no nome de cada uma e escolher a que melhor se encaixa nas suas necessidades.🎉
 
-Sentiu falta de alguma biblioteca? Notou algum link quebrado? Vem falar comigo no [AQUI](https://www.linkedin.com/in/jailsom-nogueira)!😉 
+Sentiu falta de alguma biblioteca? Notou algum link quebrado? Vem falar comigo [AQUI](https://www.linkedin.com/in/jailsom-nogueira)!😉 
 
 ## 1- [Gestalt](https://gestalt.netlify.app/Installation)
 Desenvolvido pela Pinterest o Gestalt segue as diretrizes de design interno da rede social para que devs e designers falem a mesma linguagem *se é que é possível hehe*. 
