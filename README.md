@@ -49,7 +49,7 @@ export default function CustomHeading() {
 ```
 
 ## 3- [FluentUI](https://developer.microsoft.com/en-us/fluentui#/controls/web)
-Você conhece o Office, certo? Se você deseja criar uma interface de usuário semelhante ao Office, tá aí a FluentUI, que vem de um dos grandes, a Microsoft. 
+Microsoft apresenta aqui a sua biblioteca TS com o visual do Microsoft Office que todo mundo já conhece. Robusta e um pouco mais complicada, como bom produto MS. :) 
 ### Instalação:
 ```
 npm i @fluentui/react
