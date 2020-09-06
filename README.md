@@ -48,7 +48,7 @@ export default function CustomHeading() {
 };
 ```
 
-## 3- [FluentUI](https://github.com/microsoft/fluentui)
+## 3- [FluentUI](https://developer.microsoft.com/en-us/fluentui#/controls/web)
 Você conhece o Office, certo? Se você deseja criar uma interface de usuário semelhante ao Office, tá aí a FluentUI, que vem de um dos grandes, a Microsoft. 
 ### Instalação:
 ```
