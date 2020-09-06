@@ -31,7 +31,7 @@ export default function CustomAvatar() {
 ```
 
 ## 2- [Grommet](https://v2.grommet.io/components)
-Grommet se concentra principalmente em acessibilidade, capacidade de resposta e temas.
+Grommet se concentra principalmente em acessibilidade, temas e visual limpo.
 ### Instalação:
 ```
 npm i grommet
