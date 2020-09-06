@@ -67,7 +67,7 @@ export default function DeleteButton() {
 ```
 
 ## 4- [Material-UI](https://material-ui.com/)
-O Material-UI foi criado com base no Material Design do Google. Se você deseja criar seu site seguindo este princípio e aproveitar uma UI já consagrada, aqui está a resposta.
+Se você deseja criar seu site seguindo este princípio e aproveitar uma UI já consagrada, aqui está a resposta. O Material-UI foi criado com base no Material Design do Google. 
 ### Instalação:
 ```
 npm i @material-ui/core
