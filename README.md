@@ -5,9 +5,14 @@
 - Aqui você vai encontrar tudo o que precisa para deixar sua aplicação com aquela cara profissional sem gastar muito tempo criando tudo do zero.⏳
 - Agora é só clicar no nome de cada uma e escolher a que melhor se encaixa nas suas necessidades.🎉
 
+Considerações do autor levando em conta dificuldade de implementação e resultado:
+- 👍 usaria ou já usei;
+- 👎 mais facil fazer do zero;
+- 🤏 legal, mas vai ser complicado.
+
 Sentiu falta de alguma biblioteca? Notou algum link quebrado? Vem falar comigo [AQUI](https://www.linkedin.com/in/jailsom-nogueira)!😉 
 
-## 1- [Gestalt](https://gestalt.netlify.app/Installation)
+## 1- [Gestalt](https://gestalt.netlify.app/Installation) 👍
 Desenvolvido pela Pinterest o Gestalt segue as diretrizes de design interno da rede social para que devs e designers falem a mesma linguagem *se é que é possível hehe*. 
 ### Instalação:
 ```
@@ -30,7 +35,7 @@ export default function CustomAvatar() {
 };
 ```
 
-## 2- [Grommet](https://v2.grommet.io/components)
+## 2- [Grommet](https://v2.grommet.io/components) 👍
 Grommet se concentra principalmente em acessibilidade, temas e visual limpo.
 ### Instalação:
 ```
@@ -48,7 +53,7 @@ export default function CustomHeading() {
 };
 ```
 
-## 3- [FluentUI](https://developer.microsoft.com/en-us/fluentui#/controls/web)
+## 3- [FluentUI](https://developer.microsoft.com/en-us/fluentui#/controls/web) 🤏
 Microsoft apresenta aqui a sua biblioteca TS com o visual do Microsoft Office que todo mundo já conhece. Robusta e um pouco mais complicada, como bom produto MS. :) 
 ### Instalação:
 ```
@@ -66,7 +71,7 @@ export default function DeleteButton() {
 };
 ```
 
-## 4- [Material-UI](https://material-ui.com/)
+## 4- [Material-UI](https://material-ui.com/) 👍
 Se você deseja criar seu site seguindo este princípio e aproveitar uma UI já consagrada, aqui está a resposta. O Material-UI foi criado com base no Material Design do Google. 
 ### Instalação:
 ```
@@ -84,8 +89,8 @@ export default function CustomButton() {
 };
 ```
 
-## 5- [Rebass](https://rebassjs.org/)
-Rebass vem com um punhado de componentes fundamentais. Esses componentes são extensíveis, o que proporciona a capacidade de criar um grande conjunto de elementos de IU.
+## 5- [Rebass](https://rebassjs.org/) 👎
+Rebass vem com um punhado de componentes são extensíveis, o que proporciona a capacidade de criar um grande conjunto de elementos de IU. Se você está com tempo de sobra e buscando um desafio, Rebass é uma boa pedida. 
 ### Instalação:
 ```
 npm i rebass
@@ -100,8 +105,8 @@ export default function CustomLabel() {
 };
 ```
 
-## 6- [React Suite](https://rsuitejs.com/en/guide/introduction)
-O React Suite fornece uma interface de usuário amigável e foi projetada para produtos de sistema corporativo. Também é cheia de componentes, como dicas de ferramentas, loaders, ícones, botões, etc.
+## 6- [React Suite](https://rsuitejs.com/en/guide/introduction) 👎
+React Suite é uma biblioteca projetada para plataforma intermediária e produtos de back-end. Comprometida em criar designs interativos e, ao mesmo tempo, fornecer aos desenvolvedores uma experiência de desenvolvimento amigável. 
 ### Instalação:
 ```
 npm i rsuite
@@ -119,8 +124,8 @@ export default function SignInButton() {
 }
 ```
 
-## 7- [PrimeReact](https://primefaces.org/primereact/)
-O PrimeReact oferece uma grande variedade de componentes com temas exclusivos para você escolher. Você também pode personalizar esses temas e componentes para usar de acordo com suas necessidades.
+## 7- [PrimeReact](https://primefaces.org/primereact/) 🤏🤏🤏
+PrimeReact é um rico conjunto de componentes nativos de código aberto para React.
 ### Instalação:
 ```
 npm i primereact
@@ -139,8 +144,9 @@ export default function PasswordInput() {
 };
 ```
 
-## 8- [Shards React](https://designrevision.com/docs/shards-react/getting-started)
-O Shards React deixa sua IU com a mais alta qualidade e vai te economizar muito tempo ao fornecer uma lista enorme de componentes. Você pode construir quase todos os tipos de interface com esta biblioteca.
+## 8- [Shards React](https://designrevision.com/docs/shards-react/getting-started) 🤏🤏
+O Shards React fornece um lista enorme de componentes. Você pode construir quase todos os tipos de interface com esta biblioteca. Conta tembém com uma versão premium que traz 
+mais de 120 blocos, mais de 350 componentes e 15 layouts de página.
 ### Instalação:
 ```
 npm i shards-react
@@ -157,8 +163,8 @@ export default function VipBadge() {
 };
 ```
 
-## 9- [Carbon Components React](https://react.carbondesignsystem.com/?path=/story/accordion--accordion)
-Carbon Components React representa o sistema de design Carbon da IBM. Esses componentes visam criar consistência no design e garantir que os designers e desenvolvedores estejam se entendendo.
+## 9- [Carbon Components React](https://react.carbondesignsystem.com/?path=/story/accordion--accordion) 👍
+Carbon Components React usa o sistema de design Carbon da IBM. Esses componentes visam criar consistência de design e garantir que designers e desenvolvedores estejam se entendendo.
 ### Instalação:
 ```
 npm i carbon-components-react carbon-components carbon-icons
@@ -175,8 +181,8 @@ export default function ViewDetailButton() {
 };
 ```
 
-## 10- [Onsen UI](https://onsen.io/v2/guide/react/)
-O material e o design plano vêm em um só lugar na IU do Onsen. O legal dessa biblioteca é que ela faz com que seu aplicativo web pareça nativo. Então, se você está optando por dispositivos móveis primeiro, escolha este.
+## 10- [Onsen UI](https://onsen.io/v2/guide/react/) 🤏🤏
+O legal dessa biblioteca é que ela faz com que seu aplicativo web pareça nativo. Lembre de testar Onsen em uma tela de celular! 
 ### Instalação:
 ```
 npm i onsenui react-onsenui
@@ -193,8 +199,8 @@ export default function CustomButton() {
 };
 ```
 
-## 11- [Atlaskit](https://atlaskit.atlassian.com/)
-Atlaskit é uma biblioteca de componentes de interface do usuário que ajuda a implementar o Atlassian Design Guideline. Esta vem com algumas particularidades:
+## 11- [Atlaskit](https://atlaskit.atlassian.com/) 👍
+Atlaskit é uma biblioteca de componentes que ajuda a implementar o Atlassian Design Guideline. Esta vem com algumas particularidades:
 ### A instalação é feita por pacotes e você instala os que preferir, [AQUI](https://atlaskit.atlassian.com/packages) você encontra uma lista deles:
 ```
 npm i @atlaskit/button
@@ -211,8 +217,8 @@ export default function ConfirmButton() {
 };
 ```
 
-## 12- [Blueprint](https://blueprintjs.com/)
-No Blueprint, os componentes são feitos de TypeScript e estilizados com Sass para acelerar o desenvolvimento. Esta biblioteca se concentra na apresentação de dados em aplicativos de desktop executados em navegadores modernos.
+## 12- [Blueprint](https://blueprintjs.com/) 👍👍
+No Blueprint, os componentes são desenvolvidos em TypeScript e estilizados com Sass. Esta biblioteca se concentra na apresentação de dados em aplicativos de desktop executados em navegadores modernos.
 ### Instalação:
 ```
 yarn add @blueprintjs/core react react-dom
@@ -227,23 +233,7 @@ export default function PlaceOrderButton() {
 };
 ```
 
-## 13- [Belle](http://nikgraf.github.io/belle/#/?_k=vs3lom)
-Belle oferece uma ampla gama de componentes, que são otimizados para funcionar bem em desktops e dispositivos móveis. Você pode personalizar esses componentes todos de uma vez ou cada um individualmente.
-### Instalação:
-```
-npm i belle
-```
-### Exemplo de uso:
-```
-import { Button } from ‘belle’;
-export default function CloseButton() {
-  return (
-    <Button>Close</Button>
-  );
-};
-```
-
-## 14- [React Toolbox](http://react-toolbox.io/#/)
+## 13- [React Toolbox](http://react-toolbox.io/#/) 🤏
 Os componentes do React Toolbox seguem o Google Material Design. Esta biblioteca é construída sobre algumas das propostas mais modernas, como Módulos CSS, ES6 e Webpack.
 ### Instalação:
 ```
@@ -259,7 +249,7 @@ export default function CustomDialog() {
 };
 ```
 
-## 15- [React Bootstrap](https://react-bootstrap.github.io/)
+## 14- [React Bootstrap](https://react-bootstrap.github.io/)
 React Bootstrap como o nome já indica, é uma boa maneira de usar o bootstrap, não da maneira original mas sim a do React.
 ### Instalação:
 ```
@@ -275,7 +265,7 @@ export default function CustomButton() {
 };
 ```
 
-## 16- [React Desktop](http://reactdesktop.js.org/)
+## 15- [React Desktop](http://reactdesktop.js.org/)
 O React Desktop aproveita a IU do macOS e do Windows para trazer o aplicativo de desktop nativo para a web.
 ### Instalação:
 ```
@@ -291,7 +281,7 @@ export default function CustomText() {
 };
 ```
 
-## 17- [Reactstrap](https://reactstrap.github.io/)
+## 16- [Reactstrap](https://reactstrap.github.io/)
 Reactstrap é todo baseado em Bootstrap 4. Se você estiver familiarizado com bootstrap, não preciso dizer mais nada.
 ### Instalação:
 ```
@@ -307,7 +297,7 @@ export default function RegisterButton() {
 };
 ```
 
-## 18- [Elemental UI](http://elemental-ui.com/)
+## 17- [Elemental UI](http://elemental-ui.com/)
 Elemental UI está cheia de componentes básicos, mas você ainda pode criar uma IU maravilhosa usando um único componente ou misturando alguns deles.
 ### Instalação:
 ```
@@ -323,7 +313,7 @@ export default function LogoutButton() {
 };
 ```
 
-## 19- [Evergreen](https://evergreen.segment.com/)
+## 18- [Evergreen](https://evergreen.segment.com/)
 Evergreen está cheio de componentes flexíveis e combináveis. Inclui quase tudo que você precisa para começar a construir uma interface de usuário para um site.
 ### Instalação:
 ```
@@ -342,7 +332,7 @@ export default function CancelButton() {
 };
 ```
 
-## 20- [KendoReact](https://www.telerik.com/kendo-react-ui/)
+## 19- [KendoReact](https://www.telerik.com/kendo-react-ui/)
 Agora é a vez de uma premium, KendoReact. Quando se trata de visualização de dados, esta é a pedida. O preço começa em U$899 e vale muito a pena. Inclusive, algumas grandes empresas a usam, como Microsoft, IBM, NASA, SONY, etc. Mas tem um free trial para nós pobres mortais também hehe.
 ### Instalação:
 ```
@@ -365,7 +355,7 @@ export default function CustomGrid() {
 };
 ```
 
-## 21- [React Virtualized](https://github.com/bvaughn/react-virtualized)
+## 20- [React Virtualized](https://github.com/bvaughn/react-virtualized)
 O React Virtualized se concentra na apresentação de grandes conjuntos de dados. É a biblioteca perfeita para renderizar tabelas, listas e grids enormes.
 ### Instalação:
 ```
@@ -394,7 +384,7 @@ export default function UsersList() {
 }
 ```
 
-## 22- [Ant Design](https://ant.design/)
+## 21- [Ant Design](https://ant.design/)
 Ant Design é uma biblioteca UI de classe corporativa projetado para aplicativos da web e fornece mais de 50 componentes personalizáveis.
 ### Instalação:
 ```
@@ -411,7 +401,7 @@ import { Button } from 'antd';
 <Button type="dashed">Dashed Button</Button>
 ```
 
-## 23- [Chakra UI](https://chakra-ui.com/)
+## 22- [Chakra UI](https://chakra-ui.com/)
 Chakra UI é uma biblioteca de componentes simples, modular e acessível que fornece todos os blocos de construção de que você precisa para desenvolver aplicativos React.
 ### Instalação:
 ```
@@ -423,7 +413,7 @@ import { Button } from "@chakra-ui/core";
 <Button variantColor="green">Button</Button>
 ```
 
-## 24- [React Admin](https://marmelab.com/react-admin/)
+## 23- [React Admin](https://marmelab.com/react-admin/)
 Esta biblioteca é perfeita para construir aplicativos de administração business-to-business (B2B) sobre APIs REST / GraphQL e pode também ser personalizada. É construída sobre uma série de ferramentas além do React: Material UI, React Router, Redux e React Final Form. Lembrando que possui também uma versão Enterprise Edition que conta principalmente com suporte técnico.
 ### Instalação:
 ```
