@@ -1,7 +1,7 @@
-# 20+ Bibliotecas de estilo para React
-🎨 Repositório de bibliotecas de estilo para React 🎨
+# 20+ Bibliotecas de componentes para React
+🎨 Repositório de componentes de estilo para React 🎨
 
-- Se você está em busca de uma boa biblioteca de estilo para seu projeto React, esse é o lugar certo!:shipit:
+- Se você está em busca de uma boa biblioteca de componentes para seu projeto React, esse é o lugar certo!:shipit:
 - Aqui você vai encontrar tudo o que precisa para deixar sua aplicação com aquela cara profissional sem gastar muito tempo criando tudo do zero.⏳
 - Agora é só clicar no nome de cada uma e escolher a que melhor se encaixa nas suas necessidades.🎉
 
