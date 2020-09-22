@@ -7,7 +7,7 @@
 
 Considerações do autor levando em conta dificuldade de implementação e resultado:
 - 👍 usaria ou já usei;
-- 👎 mais facil fazer do zero;
+- 👎 mais fácil fazer do zero;
 - 🤏 legal, mas vai ser complicado.
 
 Sentiu falta de alguma biblioteca? Notou algum link quebrado? Vem falar comigo [AQUI](https://www.linkedin.com/in/jailsom-nogueira)!😉 
