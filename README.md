@@ -249,11 +249,12 @@ export default function CustomDialog() {
 };
 ```
 
-## 14- [React Bootstrap](https://react-bootstrap.github.io/)
-React Bootstrap como o nome já indica, é uma boa maneira de usar o bootstrap, não da maneira original mas sim a do React.
+## 14- [React Bootstrap](https://react-bootstrap.github.io/) 👍
+Cada componente foi construído do zero como um verdadeiro componente React. Como uma das bibliotecas React mais antigas, React-Bootstrap evoluiu e cresceu junto com React, tornando-se uma excelente escolha como sua base de IU.
+
 ### Instalação:
 ```
-npm i react-bootstrap
+npm install react-bootstrap bootstrap
 ```
 ### Exemplo de uso:
 ```
@@ -265,11 +266,11 @@ export default function CustomButton() {
 };
 ```
 
-## 15- [React Desktop](http://reactdesktop.js.org/)
-O React Desktop aproveita a IU do macOS e do Windows para trazer o aplicativo de desktop nativo para a web.
+## 15- [React Desktop](http://reactdesktop.js.org/demo/) 👍
+O React Desktop visa trazer uma experiência de desktop nativa para a web, apresentando muitos componentes com a cara do macOS Sierra e do Windows 10.
 ### Instalação:
 ```
-npm i react-desktop
+npm install react-desktop --save
 ```
 ### Exemplo de uso:
 ```
@@ -281,11 +282,11 @@ export default function CustomText() {
 };
 ```
 
-## 16- [Reactstrap](https://reactstrap.github.io/)
-Reactstrap é todo baseado em Bootstrap 4. Se você estiver familiarizado com bootstrap, não preciso dizer mais nada.
+## 16- [Reactstrap](https://reactstrap.github.io/) 👍
+Reactstrap é todo baseado em Bootstrap 4. Se você estiver familiarizado com bootstrap vai ser bem tranquilo. Esta lib também conta com uma série de temas Premium bem bonitos.
 ### Instalação:
 ```
-npm i reactstrap react react-dom
+npm i reactstrap bootstrap
 ```
 ### Exemplo de uso:
 ```
@@ -297,8 +298,8 @@ export default function RegisterButton() {
 };
 ```
 
-## 17- [Elemental UI](http://elemental-ui.com/)
-Elemental UI está cheia de componentes básicos, mas você ainda pode criar uma IU maravilhosa usando um único componente ou misturando alguns deles.
+## 17- [Elemental UI](http://elemental-ui.com/) 👎
+Elemental UI está cheia de componentes bem básicos. Já que depois de muito tentar, não consegui fazer funcionar no codesandbox.io, essa vai para a lista de ~~cruz credo~~ menções honrosas.
 ### Instalação:
 ```
 npm i elemental
@@ -313,14 +314,13 @@ export default function LogoutButton() {
 };
 ```
 
-## 18- [Evergreen](https://evergreen.segment.com/)
-Evergreen está cheio de componentes flexíveis e combináveis. Inclui quase tudo que você precisa para começar a construir uma interface de usuário para um site.
+## 18- [Evergreen](https://evergreen.segment.com/) 👍👍
+Evergreen está repleta de componentes flexíveis e combináveis. Inclui quase tudo que você precisa para começar a construir uma interface de usuário para um site.
 ### Instalação:
 ```
-#npm
-npm i evergreen-ui
-#yarn
 yarn add evergreen-ui
+ou
+npm install --save evergreen-ui
 ```
 ### Exemplo de uso:
 ```
@@ -332,8 +332,8 @@ export default function CancelButton() {
 };
 ```
 
-## 19- [KendoReact](https://www.telerik.com/kendo-react-ui/)
-Agora é a vez de uma premium, KendoReact. Quando se trata de visualização de dados, esta é a pedida. O preço começa em U$899 e vale muito a pena. Inclusive, algumas grandes empresas a usam, como Microsoft, IBM, NASA, SONY, etc. Mas tem um free trial para nós pobres mortais também hehe.
+## 19- [KendoReact](https://www.telerik.com/kendo-react-ui/) 🤏🤏🤏
+Agora é a vez de uma premium, KendoReact. Quando se trata de visualização de dados, esta é a pedida. Inclusive, algumas grandes empresas a usam, como Microsoft, IBM, NASA, SONY, etc. O preço começa em U$899 mas tem um free trial para nós pobres mortais também hehe.
 ### Instalação:
 ```
 npm install --save @progress/kendo-react-grid @progress/kendo-data-query @progress/kendo-react-inputs @progress/kendo-react-intl @progress/kendo-react-dropdowns @progress/kendo-react-dateinputs @progress/kendo-drawing @progress/kendo-react-data-tools @progress/kendo-react-animation
@@ -355,8 +355,8 @@ export default function CustomGrid() {
 };
 ```
 
-## 20- [React Virtualized](https://github.com/bvaughn/react-virtualized)
-O React Virtualized se concentra na apresentação de grandes conjuntos de dados. É a biblioteca perfeita para renderizar tabelas, listas e grids enormes.
+## 20- [React Virtualized](https://github.com/bvaughn/react-virtualized) 🤏🤏
+O React Virtualized se concentra na apresentação de grandes conjuntos de dados. É a biblioteca perfeita para renderizar tabelas, listas e grids enormes. Vou ficar devendo o exemplo do codesandbox.io, este é mais um dos exemplos de muito código para pouca exemplo 😁.
 ### Instalação:
 ```
 npm i react-virtualized
