@@ -384,8 +384,8 @@ export default function UsersList() {
 }
 ```
 
-## 21- [Ant Design](https://ant.design/)
-Ant Design é uma biblioteca UI de classe corporativa projetado para aplicativos da web e fornece mais de 50 componentes personalizáveis.
+## 21- [Ant Design](https://ant.design/) 🤏👍
+Ant Design é uma biblioteca UI de classe corporativa. É projetada para aplicativos web e fornece mais de 50 componentes personalizáveis e versão TS.
 ### Instalação:
 ```
 npm install antd
@@ -401,19 +401,28 @@ import { Button } from 'antd';
 <Button type="dashed">Dashed Button</Button>
 ```
 
-## 22- [Chakra UI](https://chakra-ui.com/)
-Chakra UI é uma biblioteca de componentes simples, modular e acessível que fornece todos os blocos de construção de que você precisa para desenvolver aplicativos React.
+## 22- [Chakra UI](https://chakra-ui.com/) 👍
+Chakra UI fornece um conjunto de componentes React acessíveis, reutilizáveis e combináveis, que tornam muito fácil criar sites e aplicativos.
 ### Instalação:
 ```
+yarn add @chakra-ui/core @emotion/core @emotion/styled emotion-theming
+ou
 npm install @chakra-ui/core @emotion/core @emotion/styled emotion-theming
 ```
 ### Exemplo de uso:
 ```
-import { Button } from "@chakra-ui/core";
-<Button variantColor="green">Button</Button>
+import { ThemeProvider, CSSReset, Box, Heading } from "@chakra-ui/core";
+
+    <ThemeProvider>
+      <CSSReset />
+      <Box padding={4}>
+        <Box height="40px" bg="tomato" />
+        <Box height="40px" bg="green.300" />
+      </Box>
+    </ThemeProvider>
 ```
 
-## 23- [React Admin](https://marmelab.com/react-admin/)
+## 23- [React Admin](https://marmelab.com/react-admin/) 👍
 Esta biblioteca é perfeita para construir aplicativos de administração business-to-business (B2B) sobre APIs REST / GraphQL e pode também ser personalizada. É construída sobre uma série de ferramentas além do React: Material UI, React Router, Redux e React Final Form. Lembrando que possui também uma versão Enterprise Edition que conta principalmente com suporte técnico.
 ### Instalação:
 ```
@@ -435,4 +444,44 @@ render(
     </Admin>,
     document.getElementById('root')
 );
+```
+
+## 24- [React Window](https://react-window.now.sh/#/examples/list/fixed-size) 👍
+Quando o assunto é a construção de grandes tabelas, React Window é a pedida. Palavras do criador: _react-window é uma reescrita completa de react-virtualized. Não tentei resolver tantos problemas ou suportar tantos casos de uso. Em vez disso, concentrei-me em tornar o pacote menor e mais rápido._
+### Instalação:
+```
+# Yarn
+yarn add react-window
+ou
+# NPM
+npm install --save react-window
+```
+### Exemplo de uso:
+```
+import React from "react";
+import { render } from "react-dom";
+import { FixedSizeList as List } from "react-window";
+import AutoSizer from "react-virtualized-auto-sizer";
+
+import "./styles.css";
+
+const Row = ({ index, style }) => (
+  <div className={index % 2 ? "ListItemOdd" : "ListItemEven"} style={style}>
+    Row {index}
+  </div>
+);
+
+  <AutoSizer>
+    {({ height, width }) => (
+      <List
+        className="List"
+        height={height}
+        itemCount={1000}
+        itemSize={35}
+        width={width}
+      >
+        {Row}
+      </List>
+    )}
+  </AutoSizer>
 ```
